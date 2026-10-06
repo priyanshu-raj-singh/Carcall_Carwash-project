@@ -1,0 +1,10 @@
+{
+  "name": "carcall-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix Carwash_carcall run dev",
+    "build": "npm --prefix Carwash_carcall run build",
+    "start": "npm --prefix Carwash_carcall run start"
+  }
+}
